@@ -11,6 +11,7 @@
   ![z](https://img.shields.io/badge/CSS-z?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)
   ![z](https://img.shields.io/badge/JavaScript-z?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=yellow)
   ![z](https://img.shields.io/badge/Windows%20cmd-z?style=for-the-badge&logo=Windows&logoColor=white&labelColor=black&color=blue)
+  </br>
   ![z](https://img.shields.io/badge/mysql-z?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=blue)
   ![z](https://img.shields.io/badge/PowerShell-z?style=for-the-badge&logo=PowerShell&logoColor=white&labelColor=black&color=blue)
   ![z](https://img.shields.io/badge/php-z?style=for-the-badge&logo=php&logoColor=white&labelColor=black&color=484C89)
