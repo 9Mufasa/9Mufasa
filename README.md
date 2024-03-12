@@ -7,7 +7,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-Instagram?style=plastic&logo=Instagram&logoColor=white&labelColor=purple&color=purple)](https://www.instagram.com/mufasa.vibes/)
 - ## ⚡ Technologies
   ![xxx](https://img.shields.io/badge/HTML5-z?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=black&color=orange)
-  ![xxx](https://img.shields.io/badge/CSS-html?style=for-the-badge&logo=Html&logoColor=white&labelColor=orange&color=blue)
+  ![xxx](https://img.shields.io/badge/CSS-z?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)
 
 <!---
 9Mufasa/9Mufasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
