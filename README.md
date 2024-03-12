@@ -16,11 +16,6 @@
   ![z](https://img.shields.io/badge/xml-z?style=for-the-badge&logo=XML&logoColor=white&labelColor=black&color=orange)
   ![z](https://img.shields.io/badge/VirtualBox-z?style=for-the-badge&logo=VirtualBox&logoColor=white&labelColor=black&color=lightblue)
   ![z](https://img.shields.io/badge/Linux-z?style=for-the-badge&logo=Linux&logoColor=white&labelColor=black&color=yellow)
-  ![z]()
-  ![z]()
-  ![z]()
-  ![z]()
-  ![z]()
 
 <!---
 9Mufasa/9Mufasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
