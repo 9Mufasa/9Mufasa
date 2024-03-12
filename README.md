@@ -1,8 +1,9 @@
-  ### 🦁 Hi, I’m Mufasa
+  ##### 🦁 Hi, I’m Mufasa
 - 👀 I’m just starting in this world
 - 🌱 I’m currently learning all about frontend and backend development.
-  ### You can find me in
-  [![Static Badge](https://img.shields.io/badge/Twitter-twitter?style=plastic&logo=X&logoColor=white&labelColor=black&color=black&link)](https://twitter.com/Mufasa_InterAmp)
+  #### You can find me in
+  [![Twitter](https://img.shields.io/badge/Twitter-twitter?style=plastic&logo=X&logoColor=white&labelColor=black&color=black&link)](https://twitter.com/Mufasa_InterAmp)
+  [![Linkedin](https://img.shields.io/badge/Linkedin-linkedin?style=plastic&logo=Linkedin&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Ftwitter.com%2FMufasa_InterAmp)](https://www.linkedin.com/in/mario-c%C3%A1novas-manzano-542a132b9/)
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
