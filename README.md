@@ -8,7 +8,7 @@
 - ## ⚡ Technologies
   ![zzz](https://img.shields.io/badge/HTML5-z?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=black&color=orange)
   ![zzz](https://img.shields.io/badge/CSS-z?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)
-  !(https://img.shields.io/badge/JavaScript-z?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=yellow)
+  ![zzz](https://img.shields.io/badge/JavaScript-z?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=yellow)
 
 <!---
 9Mufasa/9Mufasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
