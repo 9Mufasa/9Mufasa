@@ -13,6 +13,13 @@
   ![z](https://img.shields.io/badge/mysql-z?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=blue)
   ![z](https://img.shields.io/badge/PowerShell-z?style=for-the-badge&logo=PowerShell&logoColor=white&labelColor=black&color=blue)
   ![z](https://img.shields.io/badge/php-z?style=for-the-badge&logo=php&logoColor=white&labelColor=black&color=484C89)
+  ![z](https://img.shields.io/badge/xml-z?style=for-the-badge&logo=XML&logoColor=white&labelColor=black&color=orange)
+  ![z](https://img.shields.io/badge/VirtualBox-z?style=for-the-badge&logo=VirtualBox&logoColor=white&labelColor=black&color=lightblue)
+  ![z](https://img.shields.io/badge/Linux-z?style=for-the-badge&logo=Linux&logoColor=white&labelColor=black&color=yellow)
+  ![z]()
+  ![z]()
+  ![z]()
+  ![z]()
   ![z]()
 
 <!---
